@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Seungpil Lee"
+title                    : #"Seungpil Lee"
 title_separator          : "-"
 name                     : &name "Seungpil"
 description              : &description "Undergraduate in Gwangju Institute of Science and Technology"
