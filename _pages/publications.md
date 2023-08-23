@@ -11,6 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
+{% if !site.publications %}
+  I'm working on it right now! Wait for a second please.
+{% endif %}
+
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
