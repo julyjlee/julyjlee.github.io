@@ -1,21 +1,19 @@
 ---
 permalink: /
-title: "Welcome"
-excerpt: "About me"
+# title: "Seungpil"
+excerpt: "Portfolio Website"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hello. I'm Seungpil.Nice to meet you. This is Seungpil's website.
-
-Here, you will be able to review a brief portfolio and CV about me. If you are interested, please feel free to contact me. Email is on left side.
-
-
-
 Brief Introduction
 =====
+
+Nice to meet you. This is Seungpil Lee's website.
+
+Here, you will be able to review a brief portfolio and CV about me. If you are interested, please feel free to contact me. Email is on left side.
 
 I'm passionate undergraduate student who embraces challenges in unfamiliar domains. Although my primary interest lies in the field of brain-inspired AI, I also have a broad curiosity that extends to other areas of artificial intelligence, including NLP and reinforcement learning. Additionally, I maintain a keen interest in interdisciplinary subjects such as cognitive science and STS.
 
