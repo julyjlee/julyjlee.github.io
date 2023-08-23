@@ -7,9 +7,14 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- <ul>{% include cv_in_pdf_format.html %}</ul> -->
 
-Education
+<script src="{{ base_path }}/assets/js/pdfobject.js"></script>
+  <!-- PDFObject.embed("pdf파일 경로", "태그 id"); -->
+<script>PDFObject.embed("{{ base_path }}/files/CV.pdf", "#example1");</script>
+
+
+<!-- Education
 ======
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
@@ -56,4 +61,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

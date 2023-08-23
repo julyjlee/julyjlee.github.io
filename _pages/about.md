@@ -1,15 +1,12 @@
 ---
 permalink: /
-title: "Seungpil Lee"
+title: "Welcome"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-Welcome!
-=====
 
 Hello. I'm Seungpil.Nice to meet you. This is Seungpil's website.
 
