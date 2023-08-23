@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 &#160;&#160;Hello. I'm Seungpil.Nice to meet you. This is Seungpil's website.
+
 &#160;&#160;Here, you will be able to review a brief portfolio and CV about me. If you are interested, please feel free to contact me. Email is on left side.
 
 
