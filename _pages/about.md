@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Seungpil"
+title: "Welcome"
 excerpt: "Portfolio Website"
 author_profile: true
 redirect_from: 
