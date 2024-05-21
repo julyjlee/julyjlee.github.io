@@ -86,7 +86,7 @@ author:
   location         : "Gawngju, South Korea"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=iPfrGWAAAAAJ&hl=ko"
   email            : "iamseungpil@gm.gist.ac.kr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
