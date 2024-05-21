@@ -3,7 +3,7 @@ title: "ARCLE: The Abstract and Reasoning Corpus Learning Environment for Reinfo
 collection: publications
 permalink: /publication/2024-07-ARCLE, The Abstract and Reasoning Corpus Learning Environment for Reinforcement Learning
 excerpt: 'This paper is about ARCLE, environment for reinforcement learning to solve ARC task'
-date: 2024-07
+date: 2024-07-01
 venue: 'CoLLAs 2024'
 paperurl: ''
 citation: ''
