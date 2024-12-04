@@ -1,5 +1,83 @@
 {% include base_path %}
 
+<div class="archive__item">
+  {% if post.teaser %}
+    <div class="archive__item-teaser">
+      <img src="{{ base_path }}/{{ post.teaser }}" alt="">
+    </div>
+  {% endif %}
+
+  <div class="archive__item-content">
+    <h2 class="archive__item-title">{{ post.title }}</h2>
+
+    {% if post.authors %}
+      <p class="archive__item-authors">{{ post.authors | markdownify }}</p>
+    {% endif %}
+    
+    {% if post.venue %}
+      <p class="archive__item-venue"><i>{{ post.venue }}</i>{% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}</p>
+    {% endif %}
+
+    <div class="archive__item-buttons">
+      {% if post.pdf %}
+        <a href="{{ post.pdf }}" class="btn">PDF</a>
+      {% endif %}
+
+      {% if post.bibtex_content %}
+        <button onclick="toggleBibtex('bibtex-{{ post.title | slugify }}')" class="btn">BIB</button>
+      {% endif %}
+
+      {% if post.html %}
+        <a href="{{ post.html }}" class="btn">HTML</a>
+      {% endif %}
+
+      {% if post.arxiv %}
+        <a href="{{ post.arxiv }}" class="btn">ARXIV</a>
+      {% endif %}
+
+      {% if post.codeurl %}
+        <a href="{{ post.codeurl }}" class="btn">CODE</a>
+      {% endif %}
+
+      {% if post.poster %}
+        <a href="{{ post.poster }}" class="btn">POSTER</a>
+      {% endif %}
+
+      {% if post.slides %}
+        <a href="{{ post.slides }}" class="btn">SLIDES</a>
+      {% endif %}
+
+      {% if post.video %}
+        <a href="{{ post.video }}" class="btn">VIDEO</a>
+      {% endif %}
+
+      {% if post.paperurl %}
+        <a href="{{ post.paperurl }}" class="btn">PAPER</a>
+      {% endif %}
+    </div>
+
+    {% if post.bibtex_content %}
+      <div id="bibtex-{{ post.title | slugify }}" class="bibtex" style="display: none;">
+        <pre>{{ post.bibtex_content }}</pre>
+      </div>
+    {% endif %}
+  </div>
+</div>
+
+<script>
+function toggleBibtex(id) {
+  var x = document.getElementById(id);
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script>
+
+
+<!-- {% include base_path %}
+
 {% if post.header.teaser %}
   {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
 {% else %}
@@ -61,4 +139,4 @@
     {% endif %}
 
   </article>
-</div>
+</div> -->

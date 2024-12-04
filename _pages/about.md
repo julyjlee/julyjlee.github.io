@@ -8,11 +8,42 @@ redirect_from:
   - /about.html
 ---
 
-Nice to meet you. This is Seungpil Lee's website.
+Nice to meet you. This is Seungpil Lee's website. Here, you will be able to review a brief portfolio and CV about me. 
+
+<div style="display: flex; justify-content: center; align-items: center; max-width: 800px; margin: 20px auto 20px 100px;">
+  <img src="images/20241115_161350(1).jpg" style="width: 200px; height: auto; margin: 0 10px;">
+</div>
 
 I'm passionate undergraduate student who embraces challenges in unfamiliar domains. Although my primary interest lies in the field of brain-inspired AI, I also have a broad curiosity that extends to other areas of artificial intelligence, including NLP and reinforcement learning. Additionally, I maintain a keen interest in interdisciplinary subjects such as cognitive science and STS.
 
-Here, you will be able to review a brief portfolio and CV about me. If you are interested, please feel free to contact me. Email is on left side.
+<div style="display: flex; justify-content: center; align-items: center; max-width: 800px; margin: 20px auto 20px 100px;">
+  <img src="images/diagonal-flip.gif" style="width: 200px; height: auto; margin: 0 10px;">
+  <img src="images/horizontal-align.gif" style="width: 200px; height: auto; margin: 0 10px;">
+  <img src="images/tetris.gif" style="width: 200px; height: auto; margin: 0 10px;">
+</div>
+
+I am currently solving visual reasoning benchmark, Abstraction and Reasoning Corpus (ARC) with [Prof. Sundong](https://sundong.kim/) in GIST. ARC is a kind of IQ test for computers - if we can solve this challenge, we might be able to develop AI with genuine reasoning capabilities.
+
+Perhaps you'll soon meet an AI that surpasses human intelligence. You might find my name there. If you'd like to contact me before that happens, please check the contact information on the left!
+
+
+<hr style="height:1px; border:none; background-color:#e5e5e5;">
+
+{% include base_path %}
+
+# Publications
+{% for post in site.publications reversed %}
+  {% if post.type != "domestic-conference" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+# Domestic Conference
+{% for post in site.publications reversed %}
+  {% if post.type == "domestic-conference" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
 
 <!-- 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
