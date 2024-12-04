@@ -14,7 +14,7 @@
     
     .archive__item-authors {
       margin: 0 0 0.3em;
-      font-size: $type-size-6;
+      font-size: $type-size-6 !important;
       
       a {
         color: $text-color;
@@ -27,7 +27,7 @@
     }
 
     .archive__item-teaser {
-      flex: 0 0 px;  // 이미지 영역 너비
+      flex: 0 0 150px;  // 이미지 영역 너비
       margin-right: 2em;
       align-self: center;  // 중앙 정렬
       
@@ -48,7 +48,7 @@
       
       .archive__item-title {
         margin: 0 0 0.5em;
-        font-size: $type-size-5;
+        font-size: $type-size-5 !important;
         font-family: $sans-serif;
         
         a {
