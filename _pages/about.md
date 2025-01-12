@@ -10,16 +10,16 @@ redirect_from:
 
 Nice to meet you. This is Seungpil Lee's website. Here, you will be able to review a brief portfolio and CV about me. 
 
-<div style="display: flex; justify-content: center; align-items: center; max-width: 800px; margin: 20px auto 20px 100px;">
-  <img src="images/20241115_161350(1).jpg" style="width: 200px; height: auto; margin: 0 10px;">
+<div class="content-container">
+  <img src="images/20241115_161350(1).jpg" alt="profile">
 </div>
 
 I'm passionate undergraduate student who embraces challenges in unfamiliar domains. Although my primary interest lies in the field of brain-inspired AI, I also have a broad curiosity that extends to other areas of artificial intelligence, including NLP and reinforcement learning. Additionally, I maintain a keen interest in interdisciplinary subjects such as cognitive science and STS.
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; max-width: 800px; margin: 20px auto 20px 100px; gap: 10px;">
-  <img src="images/diagonal-flip.gif" style="width: 200px; height: auto; min-width: 150px; flex: 1 1 auto; max-width: calc(33.333% - 20px);">
-  <img src="images/horizontal-align.gif" style="width: 200px; height: auto; min-width: 150px; flex: 1 1 auto; max-width: calc(33.333% - 20px);">
-  <img src="images/tetris.gif" style="width: 200px; height: auto; min-width: 150px; flex: 1 1 auto; max-width: calc(33.333% - 20px);">
+<div class="image-grid">
+  <img src="images/diagonal-flip.gif" alt="diagonal flip">
+  <img src="images/horizontal-align.gif" alt="horizontal align">
+  <img src="images/tetris.gif" alt="tetris">
 </div>
 
 I am currently solving visual reasoning benchmark, Abstraction and Reasoning Corpus (ARC) with [Prof. Sundong](https://sundong.kim/) in GIST. ARC is a kind of IQ test for computers - if we can solve this challenge, we might be able to develop AI with genuine reasoning capabilities.

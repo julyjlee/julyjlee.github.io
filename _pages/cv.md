@@ -7,12 +7,9 @@ redirect_from:
   - /resume
 ---
 
-<ul>{% include cv_in_pdf_format.html %}</ul>
-
-<!-- <script src="{{ base_path }}/assets/js/pdfobject.js"></script>
-  <!-- PDFObject.embed("pdf파일 경로", "태그 id");
-<script>PDFObject.embed("{{ base_path }}/files/CV.pdf", "#example1");</script> -->
-
+<div class="content-container">
+  {% include cv_in_pdf_format.html %}
+</div>
 
 <!-- Education
 ======

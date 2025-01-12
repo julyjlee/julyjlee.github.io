@@ -49,6 +49,58 @@
 }
 
 .page__content {
+ /* 이미지와 PDF를 위한 컨테이너 스타일 */
+ .content-container {
+  text-align: center;
+  position: relative;
+  
+  @include breakpoint($large) {
+    margin-left: $right-sidebar-width-narrow; // sidebar 너비만큼 왼쪽 마진
+    width: calc(100% - #{$right-sidebar-width-narrow});  // 나머지 공간 채우기
+  }
+  
+  @include breakpoint($x-large) {
+    width: calc(100% - #{$right-sidebar-width} - 4em);  // 큰 화면에서는 더 넓은 sidebar 고려
+  }
+  
+  img {
+    width: 150px;
+    height: auto;
+    display: inline-block;
+    } 
+  }
+
+.image-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  max-width: 800px;
+  margin: 20px auto;
+  gap: 10px;
+
+  img {
+    width: 200px;
+    height: auto;
+    min-width: 150px;
+    flex: 1 1 auto;
+    max-width: calc(33.333% - 20px);
+  }
+
+  @include breakpoint(max-width $medium) {
+    padding: 0 20px;
+    
+    img {
+      max-width: calc(50% - 10px);
+    }
+  }
+
+  @include breakpoint(max-width $small) {
+    img {
+      max-width: 100%;
+    }
+  }
+}
 
   h2 {
     padding-bottom: 0.5em;
