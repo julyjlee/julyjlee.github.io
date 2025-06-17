@@ -11,20 +11,12 @@ redirect_from:
 Nice to meet you. This is Yunjeong Lee's website. Here, you will be able to review a brief portfolio and CV about me. 
 
 <div class="content-container">
-  <img src="images/20241115_161350(1).jpg" alt="profile">
+  <img src="images/Hello.jpg" alt="profile">
 </div>
 
-I'm passionate undergraduate student who embraces challenges in unfamiliar domains. Although my primary interest lies in the field of brain-inspired AI, I also have a broad curiosity that extends to other areas of artificial intelligence, including NLP and reinforcement learning. Additionally, I maintain a keen interest in interdisciplinary subjects such as cognitive science and STS.
+I'm a passionate researcher with a background in Life Science and Psychology, driven by a commitment to helping people through meaningful research. My dream is to conduct research that directly helps vulnerable populations, particularly focusing on psychological challenges faced by adolescents and the elderly. Currently, I'm conducting research at the Karlsruhe Institute of Technology in Germany as part of the Korea-Germany Junior Research Fellowship Program.
 
-<div class="image-grid">
-  <img src="images/diagonal-flip.gif" alt="diagonal flip">
-  <img src="images/horizontal-align.gif" alt="horizontal align">
-  <img src="images/tetris.gif" alt="tetris">
-</div>
-
-I am currently solving visual reasoning benchmark, Abstraction and Reasoning Corpus (ARC) with [Prof. Sundong](https://sundong.kim/) in GIST. ARC is a kind of IQ test for computers - if we can solve this challenge, we might be able to develop AI with genuine reasoning capabilities.
-
-Perhaps you'll soon meet an AI that surpasses human intelligence. You might find my name there. If you'd like to contact me before that happens, please check the contact information on the left!
+Throughout my research career, I have developed expertise in cognitive psychology, language processing, and environmental psychology. My work includes investigating emotional processing during reading, user experience research using eye-tracking technology, and cross-cultural studies on urban green spaces. My multilingual abilities in Korean, English, and German, combined with international research experience, have equipped me with strong communication skills that enable effective collaboration across cultures. If you'd like to learn more about my work, please feel free to reach out!
 
 
 <hr style="height:1px; border:none; background-color:#e5e5e5;">
