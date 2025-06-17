@@ -25,16 +25,7 @@ Throughout my research career, I have developed expertise in cognitive psycholog
 
 # Publications
 {% for post in site.publications reversed %}
-  {% if post.type != "domestic-conference" %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
-
-# Domestic Conference
-{% for post in site.publications reversed %}
-  {% if post.type == "domestic-conference" %}
-    {% include archive-single.html %}
-  {% endif %}
+  {% include archive-single.html %}
 {% endfor %}
 
 <!-- 
