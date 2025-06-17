@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Seungpil Lee"
+title                    : "Yunjeong Lee"
 title_separator          : "-"
-name                     : &name "Seungpil"
+name                     : &name "Yunjeong"
 description              : &description "Undergraduate in Gwangju Institute of Science and Technology"
 url                      : https://julyjlee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Seungpil Lee"
-  avatar           : "seungpil_profile.jpg"
+  name             : "Yunjeong Lee"
+  avatar           : "yunjeong_profile.jpg"
   bio              : "Undergraduate in Gwangju Institute of Science and Technology"
   location         : "Gawngju, South Korea"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=iPfrGWAAAAAJ&hl=ko"
-  email            : "iamseungpil@gm.gist.ac.kr"
+  email            : "yunjeong@gm.gist.ac.kr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

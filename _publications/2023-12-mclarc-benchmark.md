@@ -1,6 +1,6 @@
 ---
 title: "Regulation Using Large Language Models to Generate Synthetic Data for Evaluating Analogical Ability"
-authors: "[Donghyeon Shin&#42;](https://scholar.google.com/citations?hl=en&user=J5BIlf8AAAAJ), [Seungpil Lee&#42;](iamseungpil.github.io), Klea Lena Kovacec, and [**Sundong Kim†**](https://sundong.kim/)"
+authors: "[Donghyeon Shin&#42;](https://scholar.google.com/citations?hl=en&user=J5BIlf8AAAAJ), [Yunjeong Lee&#42;](julyjlee.github.io), Klea Lena Kovacec, and [**Sundong Kim†**](https://sundong.kim/)"
 collection: publications
 teaser: images/ijcai24w-mclarc.png
 permalink: /publication/2023-12-mclarc-benchmark
@@ -14,7 +14,7 @@ bibtex_content: |
   @article{regulation2024shin,
     author = {Donghyeon Shin, Seungpil Lee, Klea Lena Kovacec, and Sundong Kim},
     title = {{Regulation Using Large Language Models to Generate Synthetic Data for Evaluating Analogical Ability}},
-    author = {Shin, Donghyeon and Lee, Seungpil and Kovacec, Klea Lena and Kim, Sundong},
+    author = {Shin, Donghyeon and Lee, Yunjeong and Kovacec, Klea Lena and Kim, Sundong},
     booktitle = {IJCAI Workshop on Analogical Abstraction in Cognition, Perception, and Language},
     year = {2024},
     }

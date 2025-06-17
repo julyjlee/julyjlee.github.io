@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Nice to meet you. This is Seungpil Lee's website. Here, you will be able to review a brief portfolio and CV about me. 
+Nice to meet you. This is Yunjeong Lee's website. Here, you will be able to review a brief portfolio and CV about me. 
 
 <div class="content-container">
   <img src="images/20241115_161350(1).jpg" alt="profile">
