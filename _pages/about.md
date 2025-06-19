@@ -14,9 +14,11 @@ Nice to meet you. This is Yunjeong Lee's website. Here, you will be able to revi
   <img src="images/Hello.jpg" alt="profile" style="width: 300px; height: auto; border-radius: 10px;">
 </div>
 
-I'm a passionate researcher with a background in Life Science and Psychology, driven by a commitment to helping people through meaningful research. My dream is to conduct research that directly helps vulnerable populations, particularly focusing on psychological challenges faced by adolescents and exploring gender-related psychological issues. Currently, I'm conducting research at the Karlsruhe Institute of Technology in Germany as part of the Korea-Germany Junior Research Fellowship Program.
+I'm Yunjeong Lee, a researcher transitioning from cognitive psychology to counseling and clinical psychology, driven by a strong desire to connect scientific insight with human care. With a background in Life Science and Psychology, I've explored how emotion and context influence language processing, including two years of research at GIST's Language, Cognition, & Brain Lab and a cross-cultural study on urban green spaces during my Korea-Germany Junior Research Fellowship at KIT.
 
-Throughout my research career, I have developed expertise in cognitive psychology, language processing, and environmental psychology. My work includes investigating emotional processing during reading, user experience research using eye-tracking technology, and cross-cultural studies on urban green spaces. My multilingual abilities in Korean, English, and German, combined with international research experience, have equipped me with strong communication skills that enable effective collaboration across cultures. If you'd like to learn more about my work, please feel free to reach out!
+Through these diverse experiences, I realized that what sustains my passion for research is seeing its real-world relevance—especially in helping individuals navigate emotional and psychological challenges. My goal is to integrate rigorous empirical methods with compassionate practice, particularly to support adolescents and women. I believe that meaningful change arises when evidence-based knowledge is applied in ways that honor the complexity of human experience.
+
+If you'd like to connect or learn more about my work, feel free to reach out!
 
 
 <hr style="height:1px; border:none; background-color:#e5e5e5;">
