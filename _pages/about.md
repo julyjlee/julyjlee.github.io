@@ -14,7 +14,7 @@ Nice to meet you. This is Yunjeong Lee's website. Here, you will be able to revi
   <img src="images/Hello.jpg" alt="profile" style="width: 300px; height: auto; border-radius: 10px;">
 </div>
 
-I'm Yunjeong Lee, a researcher transitioning from cognitive psychology to counseling and clinical psychology, driven by a strong desire to connect scientific insight with human care. With a background in Life Science and Psychology, I've explored how emotion and context influence language processing, including two years of research at GIST's Language, Cognition, & Brain Lab and a cross-cultural study on urban green spaces during my Korea-Germany Junior Research Fellowship at KIT.
+I'm a researcher transitioning from cognitive psychology to counseling and clinical psychology, driven by a strong desire to connect scientific insight with human care. With a background in Life Science and Psychology, I've explored how emotion and context influence language processing, including two years of research at GIST's Language, Cognition, & Brain Lab and a cross-cultural study on urban green spaces during my Korea-Germany Junior Research Fellowship at KIT.
 
 Through these diverse experiences, I realized that what sustains my passion for research is seeing its real-world relevance—especially in helping individuals navigate emotional and psychological challenges. My goal is to integrate rigorous empirical methods with compassionate practice, particularly to support adolescents and women. I believe that meaningful change arises when evidence-based knowledge is applied in ways that honor the complexity of human experience.
 
