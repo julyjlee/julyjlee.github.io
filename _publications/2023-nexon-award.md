@@ -8,7 +8,7 @@ excerpt: 'This eye-tracking study investigates how visual and auditory effects i
 date: 2023-11-01
 venue: '1st Prize, 2023 Nexon-GSOK Academic Paper Contest'
 paperurl: 'https://www.newsworker.co.kr/news/articleView.html?idxno=308999'
-buttontext: 'Article'
+buttontext: 'ARTICLE'
 citation: '1st Prize, 2023 Nexon-GSOK Academic Paper Contest. "How Visual and Auditory Effects Affect User Experience in Visual Novel-Style Games: an Eye-Tracking Study from the Blue Archive"'
 ---
 
