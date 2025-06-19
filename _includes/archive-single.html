@@ -52,7 +52,7 @@
       {% endif %}
 
       {% if post.paperurl %}
-        <a href="{{ post.paperurl }}" class="btn">PAPER</a>
+        <a href="{{ post.paperurl }}" class="btn">{{ post.buttontext | default: "PAPER" }}</a>
       {% endif %}
     </div>
 
