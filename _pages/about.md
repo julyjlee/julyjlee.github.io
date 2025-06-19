@@ -11,7 +11,7 @@ redirect_from:
 Nice to meet you. This is Yunjeong Lee's website. Here, you will be able to review a brief portfolio and CV about me. 
 
 <div class="content-container">
-  <img src="images/Hello.jpg" alt="profile">
+  <img src="images/Hello.jpg" alt="profile" style="width: 300px; height: auto; border-radius: 10px;">
 </div>
 
 I'm a passionate researcher with a background in Life Science and Psychology, driven by a commitment to helping people through meaningful research. My dream is to conduct research that directly helps vulnerable populations, particularly focusing on psychological challenges faced by adolescents and exploring gender-related psychological issues. Currently, I'm conducting research at the Karlsruhe Institute of Technology in Germany as part of the Korea-Germany Junior Research Fellowship Program.
