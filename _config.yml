@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yunjeong Lee"
 title_separator          : "-"
 name                     : &name "Yunjeong"
-description              : &description "Researcher in Cognitive Psychology and Life Science"
+description              : &description "Researcher in Psychology and Life Science"
 url                      : https://julyjlee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "julyjlee/julyjlee.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yunjeong Lee"
   avatar           : "yunjeong_profile.JPG"
-  bio              : "Researcher in Cognitive Psychology and Life Science"
+  bio              : "Researcher in Psychology and Life Science"
   location         : "Gwangju, South Korea"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
